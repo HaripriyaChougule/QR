@@ -159,18 +159,9 @@ body{
         
         }
 
-#imgBox {
-    width: 200px;
-    height: 200px;
-    margin-left: 7%;
-    border-radius: 5px solid white ;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 2 s ;
-
-
-}
-    
+container .imgBox{
+    margin-left: -8.5%;
+  }
 
 
         
